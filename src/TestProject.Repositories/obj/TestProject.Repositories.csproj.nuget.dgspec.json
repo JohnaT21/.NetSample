@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Repositories\\TestProject.Repositories.csproj": {}
+    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Repositories\\TestProject.Repositories.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Core\\TestProject.Core.csproj": {
+    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Core\\TestProject.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Core\\TestProject.Core.csproj",
+        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Core\\TestProject.Core.csproj",
         "projectName": "TestProject.Core",
-        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Core\\TestProject.Core.csproj",
+        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Core\\TestProject.Core.csproj",
         "packagesPath": "C:\\Users\\jenye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Core\\obj\\",
+        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jenye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Data\\TestProject.Data.csproj": {
+    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Data\\TestProject.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Data\\TestProject.Data.csproj",
+        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Data\\TestProject.Data.csproj",
         "projectName": "TestProject.Data",
-        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Data\\TestProject.Data.csproj",
+        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Data\\TestProject.Data.csproj",
         "packagesPath": "C:\\Users\\jenye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Data\\obj\\",
+        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jenye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -105,8 +105,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Core\\TestProject.Core.csproj": {
-                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Core\\TestProject.Core.csproj"
+              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Core\\TestProject.Core.csproj": {
+                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Core\\TestProject.Core.csproj"
               }
             }
           }
@@ -202,14 +202,14 @@
         }
       }
     },
-    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Repositories\\TestProject.Repositories.csproj": {
+    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Repositories\\TestProject.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Repositories\\TestProject.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Repositories\\TestProject.Repositories.csproj",
         "projectName": "TestProject.Repositories",
-        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Repositories\\TestProject.Repositories.csproj",
+        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Repositories\\TestProject.Repositories.csproj",
         "packagesPath": "C:\\Users\\jenye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Repositories\\obj\\",
+        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jenye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -226,8 +226,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Data\\TestProject.Data.csproj": {
-                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Data\\TestProject.Data.csproj"
+              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Data\\TestProject.Data.csproj": {
+                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Data\\TestProject.Data.csproj"
               }
             }
           }

@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "MEMIS.API/1.0.0": {
+      "TestProject.API/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
           "Autofac.Extensions.DependencyInjection": "8.0.0",
@@ -14,10 +14,10 @@
           "EntityFrameworkCore.Triggers": "1.2.3",
           "Google.Cloud.Storage.V1": "4.1.0",
           "JsonModelBinder": "2.1.1",
-          "MEMIS.DTO": "1.0.0",
-          "MEMIS.Repositories": "1.0.0",
-          "MEMIS.Services": "1.0.0",
-          "MEMIS.Validators": "1.0.0",
+          "TestProject.DTO": "1.0.0",
+          "TestProject.Repositories": "1.0.0",
+          "TestProject.Services": "1.0.0",
+          "TestProject.Validators": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.0",
           "Microsoft.AspNetCore.Identity.UI": "7.0.0",
           "Microsoft.AspNetCore.OpenApi": "7.0.0",
@@ -45,7 +45,7 @@
           "Topshelf": "4.3.1-develop.253"
         },
         "runtime": {
-          "MEMIS.API.dll": {}
+          "TestProject.API.dll": {}
         }
       },
       "Autofac/6.4.0": {
@@ -3343,7 +3343,7 @@
           }
         }
       },
-      "MEMIS.Core/1.0.0": {
+      "TestProject.Core/1.0.0": {
         "dependencies": {
           "EntityFrameworkCore.Triggers": "1.2.3",
           "NETCore.MailKit": "2.1.0",
@@ -3352,14 +3352,14 @@
           "Topshelf": "4.3.1-develop.253"
         },
         "runtime": {
-          "MEMIS.Core.dll": {}
+          "TestProject.Core.dll": {}
         }
       },
-      "MEMIS.Data/1.0.0": {
+      "TestProject.Data/1.0.0": {
         "dependencies": {
           "Dapper": "2.0.123",
           "EntityFrameworkCore.Triggers": "1.2.3",
-          "MEMIS.Core": "1.0.0",
+          "TestProject.Core": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.1",
           "Microsoft.EntityFrameworkCore.Relational": "7.0.1",
@@ -3372,26 +3372,26 @@
           "Topshelf": "4.3.1-develop.253"
         },
         "runtime": {
-          "MEMIS.Data.dll": {}
+          "TestProject.Data.dll": {}
         }
       },
-      "MEMIS.DTO/1.0.0": {
+      "TestProject.DTO/1.0.0": {
         "dependencies": {
           "EntityFrameworkCore.Triggers": "1.2.3",
-          "MEMIS.Core": "1.0.0",
-          "MEMIS.Data": "1.0.0",
+          "TestProject.Core": "1.0.0",
+          "TestProject.Data": "1.0.0",
           "Quartz": "3.5.0",
           "System.Linq.Dynamic.Core": "1.2.23",
           "Topshelf": "4.3.1-develop.253"
         },
         "runtime": {
-          "MEMIS.DTO.dll": {}
+          "TestProject.DTO.dll": {}
         }
       },
-      "MEMIS.Repositories/1.0.0": {
+      "TestProject.Repositories/1.0.0": {
         "dependencies": {
           "EntityFrameworkCore.Triggers": "1.2.3",
-          "MEMIS.Data": "1.0.0",
+          "TestProject.Data": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.1",
           "Microsoft.EntityFrameworkCore.Relational": "7.0.1",
           "Quartz": "3.5.0",
@@ -3399,20 +3399,20 @@
           "Topshelf": "4.3.1-develop.253"
         },
         "runtime": {
-          "MEMIS.Repositories.dll": {}
+          "TestProject.Repositories.dll": {}
         }
       },
-      "MEMIS.Services/1.0.0": {
+      "TestProject.Services/1.0.0": {
         "dependencies": {
           "AutoMapper": "12.0.0",
           "Autofac.Extensions.DependencyInjection": "8.0.0",
           "EntityFrameworkCore.Triggers": "1.2.3",
           "Google.Cloud.Storage.V1": "4.1.0",
           "JsonModelBinder": "2.1.1",
-          "MEMIS.Core": "1.0.0",
-          "MEMIS.DTO": "1.0.0",
-          "MEMIS.Data": "1.0.0",
-          "MEMIS.Repositories": "1.0.0",
+          "TestProject.Core": "1.0.0",
+          "TestProject.DTO": "1.0.0",
+          "TestProject.Data": "1.0.0",
+          "TestProject.Repositories": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0",
           "Microsoft.IdentityModel.Tokens": "6.25.1",
           "NPOI": "2.6.0",
@@ -3426,27 +3426,27 @@
           "Twilio.AspNet.Core": "7.0.0"
         },
         "runtime": {
-          "MEMIS.Services.dll": {}
+          "TestProject.Services.dll": {}
         }
       },
-      "MEMIS.Validators/1.0.0": {
+      "TestProject.Validators/1.0.0": {
         "dependencies": {
           "EntityFrameworkCore.Triggers": "1.2.3",
           "FluentValidation": "11.4.0",
-          "MEMIS.DTO": "1.0.0",
-          "MEMIS.Services": "1.0.0",
+          "TestProject.DTO": "1.0.0",
+          "TestProject.Services": "1.0.0",
           "Quartz": "3.5.0",
           "System.Linq.Dynamic.Core": "1.2.23",
           "Topshelf": "4.3.1-develop.253"
         },
         "runtime": {
-          "MEMIS.Validators.dll": {}
+          "TestProject.Validators.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "MEMIS.API/1.0.0": {
+    "TestProject.API/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -5397,32 +5397,32 @@
       "path": "twilio.aspnet.core/7.0.0",
       "hashPath": "twilio.aspnet.core.7.0.0.nupkg.sha512"
     },
-    "MEMIS.Core/1.0.0": {
+    "TestProject.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "MEMIS.Data/1.0.0": {
+    "TestProject.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "MEMIS.DTO/1.0.0": {
+    "TestProject.DTO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "MEMIS.Repositories/1.0.0": {
+    "TestProject.Repositories/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "MEMIS.Services/1.0.0": {
+    "TestProject.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "MEMIS.Validators/1.0.0": {
+    "TestProject.Validators/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

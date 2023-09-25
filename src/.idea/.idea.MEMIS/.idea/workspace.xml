@@ -29,6 +29,7 @@
       <change afterPath="$PROJECT_DIR$/TestProject.Services/bin/Debug/net7.0/TestProject.Services.pdb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TestProject.Validators/bin/Debug/net7.0/TestProject.Validators.dll" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TestProject.Validators/bin/Debug/net7.0/TestProject.Validators.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MEMIS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MEMIS/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MEMIS.API/Controllers/Account/AccountController.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/MEMIS.API/Controllers/Account/MenuController.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/MEMIS.API/Controllers/Account/MenusController.cs" beforeDir="false" />
@@ -1274,7 +1275,7 @@
       <workItem from="1689495602746" duration="5545000" />
       <workItem from="1689594035044" duration="5077000" />
       <workItem from="1695634774572" duration="144000" />
-      <workItem from="1695634956200" duration="6013000" />
+      <workItem from="1695634956200" duration="6991000" />
     </task>
     <task id="LOCAL-00031" summary="administrationUnitId validation is removed">
       <created>1672319430244</created>

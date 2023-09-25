@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "MEMIS.API": {
+    "TestProject.API": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {

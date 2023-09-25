@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GW5iJBzxZ7NuECjGKN2aAT0pNgKo4zAa1P/kzMltKW3uDqKxcBTq6Nch2+ZNo9gTyuNpMbAVzBROrunpif8cNg==",
+  "dgSpecHash": "ZtnBjIiWQ20ids5SLK/E1XpfKcMiJl//jROPdlJreueOU+dcwbVOs0ELygh/nZaIxTM7izP146QoZasj8XxKmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Repositories\\TestProject.Repositories.csproj",
+  "projectFilePath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Repositories\\TestProject.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jenye\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\jenye\\.nuget\\packages\\entityframeworkcore.triggers\\1.2.3\\entityframeworkcore.triggers.1.2.3.nupkg.sha512",

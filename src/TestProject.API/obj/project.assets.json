@@ -15222,11 +15222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.API\\TestProject.API.csproj",
+      "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.API\\TestProject.API.csproj",
       "projectName": "TestProject.API",
-      "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.API\\TestProject.API.csproj",
+      "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.API\\TestProject.API.csproj",
       "packagesPath": "C:\\Users\\jenye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.API\\obj\\",
+      "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jenye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -15243,17 +15243,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.DTO\\TestProject.DTO.csproj": {
-              "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.DTO\\TestProject.DTO.csproj"
+            "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.DTO\\TestProject.DTO.csproj": {
+              "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.DTO\\TestProject.DTO.csproj"
             },
-            "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Repositories\\TestProject.Repositories.csproj": {
-              "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Repositories\\TestProject.Repositories.csproj"
+            "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Repositories\\TestProject.Repositories.csproj": {
+              "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Repositories\\TestProject.Repositories.csproj"
             },
-            "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Services\\TestProject.Services.csproj": {
-              "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Services\\TestProject.Services.csproj"
+            "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Services\\TestProject.Services.csproj": {
+              "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Services\\TestProject.Services.csproj"
             },
-            "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Validators\\TestProject.Validators.csproj": {
-              "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Validators\\TestProject.Validators.csproj"
+            "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Validators\\TestProject.Validators.csproj": {
+              "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\DotNetSample\\src\\TestProject.Validators\\TestProject.Validators.csproj"
             }
           }
         }

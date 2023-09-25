@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.API\\MEMIS.API.csproj": {}
+    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.API\\TestProject.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.API\\MEMIS.API.csproj": {
+    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.API\\TestProject.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.API\\MEMIS.API.csproj",
-        "projectName": "MEMIS.API",
-        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.API\\MEMIS.API.csproj",
+        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.API\\TestProject.API.csproj",
+        "projectName": "TestProject.API",
+        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.API\\TestProject.API.csproj",
         "packagesPath": "C:\\Users\\jenye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.API\\obj\\",
+        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jenye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,17 +28,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.DTO\\MEMIS.DTO.csproj": {
-                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.DTO\\MEMIS.DTO.csproj"
+              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.DTO\\TestProject.DTO.csproj": {
+                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.DTO\\TestProject.DTO.csproj"
               },
-              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Repositories\\MEMIS.Repositories.csproj": {
-                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Repositories\\MEMIS.Repositories.csproj"
+              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Repositories\\TestProject.Repositories.csproj": {
+                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Repositories\\TestProject.Repositories.csproj"
               },
-              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Services\\MEMIS.Services.csproj": {
-                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Services\\MEMIS.Services.csproj"
+              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Services\\TestProject.Services.csproj": {
+                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Services\\TestProject.Services.csproj"
               },
-              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Validators\\MEMIS.Validators.csproj": {
-                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Validators\\MEMIS.Validators.csproj"
+              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Validators\\TestProject.Validators.csproj": {
+                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Validators\\TestProject.Validators.csproj"
               }
             }
           }
@@ -206,14 +206,14 @@
         }
       }
     },
-    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Core\\MEMIS.Core.csproj": {
+    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Core\\TestProject.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Core\\MEMIS.Core.csproj",
-        "projectName": "MEMIS.Core",
-        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Core\\MEMIS.Core.csproj",
+        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Core\\TestProject.Core.csproj",
+        "projectName": "TestProject.Core",
+        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Core\\TestProject.Core.csproj",
         "packagesPath": "C:\\Users\\jenye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Core\\obj\\",
+        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jenye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -283,14 +283,14 @@
         }
       }
     },
-    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Data\\MEMIS.Data.csproj": {
+    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Data\\TestProject.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Data\\MEMIS.Data.csproj",
-        "projectName": "MEMIS.Data",
-        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Data\\MEMIS.Data.csproj",
+        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Data\\TestProject.Data.csproj",
+        "projectName": "TestProject.Data",
+        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Data\\TestProject.Data.csproj",
         "packagesPath": "C:\\Users\\jenye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Data\\obj\\",
+        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jenye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -307,8 +307,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Core\\MEMIS.Core.csproj": {
-                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Core\\MEMIS.Core.csproj"
+              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Core\\TestProject.Core.csproj": {
+                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Core\\TestProject.Core.csproj"
               }
             }
           }
@@ -404,14 +404,14 @@
         }
       }
     },
-    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.DTO\\MEMIS.DTO.csproj": {
+    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.DTO\\TestProject.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.DTO\\MEMIS.DTO.csproj",
-        "projectName": "MEMIS.DTO",
-        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.DTO\\MEMIS.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.DTO\\TestProject.DTO.csproj",
+        "projectName": "TestProject.DTO",
+        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.DTO\\TestProject.DTO.csproj",
         "packagesPath": "C:\\Users\\jenye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.DTO\\obj\\",
+        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jenye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -428,11 +428,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Core\\MEMIS.Core.csproj": {
-                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Core\\MEMIS.Core.csproj"
+              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Core\\TestProject.Core.csproj": {
+                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Core\\TestProject.Core.csproj"
               },
-              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Data\\MEMIS.Data.csproj": {
-                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Data\\MEMIS.Data.csproj"
+              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Data\\TestProject.Data.csproj": {
+                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Data\\TestProject.Data.csproj"
               }
             }
           }
@@ -484,14 +484,14 @@
         }
       }
     },
-    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Repositories\\MEMIS.Repositories.csproj": {
+    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Repositories\\TestProject.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Repositories\\MEMIS.Repositories.csproj",
-        "projectName": "MEMIS.Repositories",
-        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Repositories\\MEMIS.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Repositories\\TestProject.Repositories.csproj",
+        "projectName": "TestProject.Repositories",
+        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Repositories\\TestProject.Repositories.csproj",
         "packagesPath": "C:\\Users\\jenye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Repositories\\obj\\",
+        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jenye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -508,8 +508,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Data\\MEMIS.Data.csproj": {
-                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Data\\MEMIS.Data.csproj"
+              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Data\\TestProject.Data.csproj": {
+                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Data\\TestProject.Data.csproj"
               }
             }
           }
@@ -569,14 +569,14 @@
         }
       }
     },
-    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Services\\MEMIS.Services.csproj": {
+    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Services\\TestProject.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Services\\MEMIS.Services.csproj",
-        "projectName": "MEMIS.Services",
-        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Services\\MEMIS.Services.csproj",
+        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Services\\TestProject.Services.csproj",
+        "projectName": "TestProject.Services",
+        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Services\\TestProject.Services.csproj",
         "packagesPath": "C:\\Users\\jenye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Services\\obj\\",
+        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jenye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -593,17 +593,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Core\\MEMIS.Core.csproj": {
-                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Core\\MEMIS.Core.csproj"
+              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Core\\TestProject.Core.csproj": {
+                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Core\\TestProject.Core.csproj"
               },
-              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Data\\MEMIS.Data.csproj": {
-                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Data\\MEMIS.Data.csproj"
+              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Data\\TestProject.Data.csproj": {
+                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Data\\TestProject.Data.csproj"
               },
-              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.DTO\\MEMIS.DTO.csproj": {
-                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.DTO\\MEMIS.DTO.csproj"
+              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.DTO\\TestProject.DTO.csproj": {
+                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.DTO\\TestProject.DTO.csproj"
               },
-              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Repositories\\MEMIS.Repositories.csproj": {
-                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Repositories\\MEMIS.Repositories.csproj"
+              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Repositories\\TestProject.Repositories.csproj": {
+                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Repositories\\TestProject.Repositories.csproj"
               }
             }
           }
@@ -703,14 +703,14 @@
         }
       }
     },
-    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Validators\\MEMIS.Validators.csproj": {
+    "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Validators\\TestProject.Validators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Validators\\MEMIS.Validators.csproj",
-        "projectName": "MEMIS.Validators",
-        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Validators\\MEMIS.Validators.csproj",
+        "projectUniqueName": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Validators\\TestProject.Validators.csproj",
+        "projectName": "TestProject.Validators",
+        "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Validators\\TestProject.Validators.csproj",
         "packagesPath": "C:\\Users\\jenye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Validators\\obj\\",
+        "outputPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Validators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jenye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -727,11 +727,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.DTO\\MEMIS.DTO.csproj": {
-                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.DTO\\MEMIS.DTO.csproj"
+              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.DTO\\TestProject.DTO.csproj": {
+                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.DTO\\TestProject.DTO.csproj"
               },
-              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Services\\MEMIS.Services.csproj": {
-                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\MEMIS.Services\\MEMIS.Services.csproj"
+              "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Services\\TestProject.Services.csproj": {
+                "projectPath": "C:\\Users\\jenye\\OneDrive\\Desktop\\jo\\TestNEtDot\\medical-equipment-management-be\\src\\TestProject.Services\\TestProject.Services.csproj"
               }
             }
           }
