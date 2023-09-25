@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MEMIS.API.props" />
+</Project>

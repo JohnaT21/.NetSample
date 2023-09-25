@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DTshlVs7a3SN36oT8ap1g4wkOR8AHneDncAZLfGuP/d3JVe6O8yg/6hsQVSoUuMNPcN16TIQEODdoWtCUKu+1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jenye\\project\\JSI\\memis\\medical-equipment-management-be\\src\\Modules\\Accounts\\MEMS.Modules.Accounts.Domain\\MEMS.Modules.Accounts.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jenye\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\jenye\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

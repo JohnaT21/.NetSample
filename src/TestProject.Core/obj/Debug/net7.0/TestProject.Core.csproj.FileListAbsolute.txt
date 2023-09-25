@@ -1,0 +1,12 @@
+C:\Users\jenye\OneDrive\Desktop\jo\TestNEtDot\medical-equipment-management-be\src\TestProject.Core\bin\Debug\net7.0\TestProject.Core.deps.json
+C:\Users\jenye\OneDrive\Desktop\jo\TestNEtDot\medical-equipment-management-be\src\TestProject.Core\bin\Debug\net7.0\TestProject.Core.dll
+C:\Users\jenye\OneDrive\Desktop\jo\TestNEtDot\medical-equipment-management-be\src\TestProject.Core\bin\Debug\net7.0\TestProject.Core.pdb
+C:\Users\jenye\OneDrive\Desktop\jo\TestNEtDot\medical-equipment-management-be\src\TestProject.Core\obj\Debug\net7.0\TestProject.Core.csproj.AssemblyReference.cache
+C:\Users\jenye\OneDrive\Desktop\jo\TestNEtDot\medical-equipment-management-be\src\TestProject.Core\obj\Debug\net7.0\TestProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenye\OneDrive\Desktop\jo\TestNEtDot\medical-equipment-management-be\src\TestProject.Core\obj\Debug\net7.0\TestProject.Core.AssemblyInfoInputs.cache
+C:\Users\jenye\OneDrive\Desktop\jo\TestNEtDot\medical-equipment-management-be\src\TestProject.Core\obj\Debug\net7.0\TestProject.Core.AssemblyInfo.cs
+C:\Users\jenye\OneDrive\Desktop\jo\TestNEtDot\medical-equipment-management-be\src\TestProject.Core\obj\Debug\net7.0\TestProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\jenye\OneDrive\Desktop\jo\TestNEtDot\medical-equipment-management-be\src\TestProject.Core\obj\Debug\net7.0\TestProject.Core.dll
+C:\Users\jenye\OneDrive\Desktop\jo\TestNEtDot\medical-equipment-management-be\src\TestProject.Core\obj\Debug\net7.0\refint\TestProject.Core.dll
+C:\Users\jenye\OneDrive\Desktop\jo\TestNEtDot\medical-equipment-management-be\src\TestProject.Core\obj\Debug\net7.0\TestProject.Core.pdb
+C:\Users\jenye\OneDrive\Desktop\jo\TestNEtDot\medical-equipment-management-be\src\TestProject.Core\obj\Debug\net7.0\ref\TestProject.Core.dll

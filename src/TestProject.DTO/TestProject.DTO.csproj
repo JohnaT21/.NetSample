@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFrameworkCore.Triggers" Version="1.2.3" />
+    <PackageReference Include="Quartz" Version="3.5.0" />
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.23" />
+    <PackageReference Include="Topshelf" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestProject.Core\TestProject.Core.csproj" />
+    <ProjectReference Include="..\TestProject.Data\TestProject.Data.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Equipment\EquipmentType\EquipmentType\" />
+    <None Remove="Equipment\SparePart\" />
+    <None Remove="Equipment\EquipmentStatus\" />
+    <None Remove="Equipment\EquipmentModel\" />
+    <None Remove="Equipment\FacilityEquipment\" />
+    <None Remove="Equipment\MaintenanceRequirement\" />
+    <None Remove="MetaData\" />
+    <None Remove="MetaData\Status\" />
+  </ItemGroup>
+<!--  <ItemGroup>-->
+<!--    <Reference Include="Microsoft.AspNetCore.Http.Features">-->
+<!--      <HintPath>..\..\..\..\..\..\usr\local\share\dotnet\shared\Microsoft.AspNetCore.App\7.0.1\Microsoft.AspNetCore.Http.Features.dll</HintPath>-->
+<!--    </Reference>-->
+<!--  </ItemGroup>-->
+</Project>

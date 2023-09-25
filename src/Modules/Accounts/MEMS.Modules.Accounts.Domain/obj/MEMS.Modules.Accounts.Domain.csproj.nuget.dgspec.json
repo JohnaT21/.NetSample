@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jenye\\project\\JSI\\memis\\medical-equipment-management-be\\src\\Modules\\Accounts\\MEMS.Modules.Accounts.Domain\\MEMS.Modules.Accounts.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jenye\\project\\JSI\\memis\\medical-equipment-management-be\\src\\BuildingBlocks\\Domain\\MEMS.BuildingBlocks.Domain\\MEMS.BuildingBlocks.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jenye\\project\\JSI\\memis\\medical-equipment-management-be\\src\\BuildingBlocks\\Domain\\MEMS.BuildingBlocks.Domain\\MEMS.BuildingBlocks.Domain.csproj",
+        "projectName": "MEMS.BuildingBlocks.Domain",
+        "projectPath": "C:\\Users\\jenye\\project\\JSI\\memis\\medical-equipment-management-be\\src\\BuildingBlocks\\Domain\\MEMS.BuildingBlocks.Domain\\MEMS.BuildingBlocks.Domain.csproj",
+        "packagesPath": "C:\\Users\\jenye\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jenye\\project\\JSI\\memis\\medical-equipment-management-be\\src\\BuildingBlocks\\Domain\\MEMS.BuildingBlocks.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jenye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jenye\\project\\JSI\\memis\\medical-equipment-management-be\\src\\Modules\\Accounts\\MEMS.Modules.Accounts.Domain\\MEMS.Modules.Accounts.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jenye\\project\\JSI\\memis\\medical-equipment-management-be\\src\\Modules\\Accounts\\MEMS.Modules.Accounts.Domain\\MEMS.Modules.Accounts.Domain.csproj",
+        "projectName": "MEMS.Modules.Accounts.Domain",
+        "projectPath": "C:\\Users\\jenye\\project\\JSI\\memis\\medical-equipment-management-be\\src\\Modules\\Accounts\\MEMS.Modules.Accounts.Domain\\MEMS.Modules.Accounts.Domain.csproj",
+        "packagesPath": "C:\\Users\\jenye\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jenye\\project\\JSI\\memis\\medical-equipment-management-be\\src\\Modules\\Accounts\\MEMS.Modules.Accounts.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jenye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\jenye\\project\\JSI\\memis\\medical-equipment-management-be\\src\\BuildingBlocks\\Domain\\MEMS.BuildingBlocks.Domain\\MEMS.BuildingBlocks.Domain.csproj": {
+                "projectPath": "C:\\Users\\jenye\\project\\JSI\\memis\\medical-equipment-management-be\\src\\BuildingBlocks\\Domain\\MEMS.BuildingBlocks.Domain\\MEMS.BuildingBlocks.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

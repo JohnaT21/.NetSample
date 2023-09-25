@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\MEMIS.API",
+    "\\src\\MEMIS.API\\Controllers",
+    "\\src\\MEMIS.API\\Controllers\\Account",
+    "\\src\\MEMIS.Services",
+    "\\src\\MEMIS.Services\\Account",
+    "\\src\\MEMIS.Services\\Account\\Account"
+  ],
+  "SelectedNode": "\\src\\MEMIS.API\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
