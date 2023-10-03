@@ -2,7 +2,7 @@
 
 namespace TestProject.DTO.Account;
 
-public class UserFilterDto : BaseFilterDto
+public class UserFilterDto 
 {
     public string? text { get; set; }
     // public string? Email { get; set; }
